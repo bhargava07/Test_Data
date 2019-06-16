@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "userIdentifier": "0cda1ff7-4d2e-4b95-8383-a6c8a46cd27d",
+      "country": "UK",
+      "devOrTestUser": true,
+      "firstName": "Leslie",
+      "middleInitial": "",
+      "lastName": "Bell",
+      "nameSuffix": "",
+      "email": "",
+      "dateOfBirth": "1990-06-21"
+    }
+  ]
+}
