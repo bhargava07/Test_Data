@@ -3,13 +3,11 @@ import uuid
 import glob
 import os
 import shutil
-import pandas
 from datetime import datetime
 
 d = {}
 mob = {}
 
-print("hello")
 def is_exist(k):
     if k in mob.keys():
         value = mob[k]
