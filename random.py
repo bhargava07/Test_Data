@@ -3,9 +3,10 @@ import os
 from faker import Faker
 fake = Faker()
 
-
+#2.7
 w = {}
 a = []
+a = 0
 for i in range(10):
     w['userIdentifier'] = i
     if i in d.keys():
